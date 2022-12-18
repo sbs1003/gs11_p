@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/sbs1003/gs11_c.git
